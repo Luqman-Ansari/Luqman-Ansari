@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luqman-ansari&label=Profile%20views&color=0e75b6&style=flat" alt="luqman-ansari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luqman-ansari" alt="luqman-ansari" /></a> </p>
-
 - 🔭 I’m currently working on **SignsEye**
 
 - 🌱 I’m currently learning **Fine Tuning of LLMs, RAG, PyTorch**
