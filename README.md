@@ -1,19 +1,8 @@
-<!-- trace_id: luqman-ansari · sampled: always · exporter: github.com -->
+<!-- trace_id: luqman-ansari · sampled: always · animated: yes -->
 
-```text
-$ aeye trace --agent luqman-ansari --env production --follow
-```
-
-```log
-[TRACE] agent.boot                     status=OK       region=islamabad-1
-[SPAN ] education.fast_nuces           dur=4y          attrs={degree: "BS Computer Science", gpa: 3.57, deans_list: 6}
-[SPAN ] role.emumba.genai_engineer     dur=ongoing     attrs={cloud: "AWS", focus: "agents-in-production"}
-[INFO ] capability.loaded              rag_systems, llm_agents, fine_tuning, workflow_automation
-[INFO ] runtime.loaded                 python, fastapi, pydantic_ai, pytorch, bedrock, sagemaker, lambda
-[WARN ] observed: most systems fail from bad engineering, not bad models
-[INFO ] remediation: ship it → measure it → then make it smart
-[TRACE] agent.ready                    awaiting=interesting_problems
-```
+<p align="center">
+  <img src="./assets/hero.svg" alt="Animated terminal: boot sequence, whoami, and a live AeyeAgent pipeline trace" width="100%"/>
+</p>
 
 ### ⛏ tool calls
 
@@ -32,19 +21,13 @@ def observe(pipeline: PydanticAIPipeline) -> Insight:
 
 Open-source visual debugger & observability dashboard for **PydanticAI** agent pipelines.
 Watch your agent think — every tool call, every retry, every wrong turn — as a live trace.
+The hero above? That's the energy, in miniature.
 
 ```text
 pip install aeyeagent
 ```
 
 → [github.com/Luqman-Ansari/AeyeAgent](https://github.com/Luqman-Ansari) · on [PyPI](https://pypi.org/project/aeyeagent/)
-
-### ⛏ pipeline
-
-```mermaid
-flowchart LR
-    A[idea] --> B[ship] --> C[measure] --> D[make it smart] --> C
-```
 
 ### ⛏ final output
 
