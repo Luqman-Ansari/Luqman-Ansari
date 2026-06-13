@@ -19,6 +19,30 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luqman-Ansari&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=4DFF9E&icon_color=4DFF9E&text_color=8A99AD&ring_color=4DFF9E" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Ansari&layout=compact&hide_border=true&bg_color=0A0E14&title_color=4DFF9E&text_color=8A99AD&langs_count=8" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luqman-Ansari&hide_border=true&background=0A0E14&stroke=1B2430&ring=4DFF9E&fire=FFB454&currStreakLabel=4DFF9E&sideNums=E6EDF5&currStreakNum=E6EDF5&dates=5A6B80&sideLabels=8A99AD" alt="streak" />
+</p>
+
+<!-- Snake animation (eats your contribution graph).
+     Powered by the GitHub Action in .github/workflows/snake.yml.
+     404s until that workflow has run once and created the "output" branch. -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake-dark.svg" />
+  </picture>
+</p>
+
+---
+
 ```python
 class LuqmanAnsari:
     role        = "AWS GenAI Engineer @ Emumba"
@@ -111,30 +135,6 @@ and compensated for missing LiDAR — **error margin under 7 ft.**
 </table>
 
 <p align="center"><a href="https://Luqman-Ansari.github.io/My-Portfolio"><b>↗ See all projects on my portfolio</b></a></p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luqman-Ansari&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=4DFF9E&icon_color=4DFF9E&text_color=8A99AD&ring_color=4DFF9E" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Ansari&layout=compact&hide_border=true&bg_color=0A0E14&title_color=4DFF9E&text_color=8A99AD&langs_count=8" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luqman-Ansari&hide_border=true&background=0A0E14&stroke=1B2430&ring=4DFF9E&fire=FFB454&currStreakLabel=4DFF9E&sideNums=E6EDF5&currStreakNum=E6EDF5&dates=5A6B80&sideLabels=8A99AD" alt="streak" />
-</p>
-
-<!-- Snake animation (eats your contribution graph).
-     Powered by the GitHub Action in .github/workflows/snake.yml.
-     404s until that workflow has run once and created the "output" branch. -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake-dark.svg" />
-  </picture>
-</p>
 
 ---
 
