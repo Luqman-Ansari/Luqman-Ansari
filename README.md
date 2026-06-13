@@ -110,7 +110,7 @@ and compensated for missing LiDAR — **error margin under 7 ft.**
   </tr>
 </table>
 
-<p align="center"><a href="https://Luqman-Ansari.github.io/My-Portfolio"><b>↗ See all projects on my portfolio</b></a></p>
+<p align="center"><a href="https://Luqman-Ansari.github.io"><b>↗ See all projects on my portfolio</b></a></p>
 
 ---
 
