@@ -127,9 +127,13 @@ and compensated for missing LiDAR — **error margin under 7 ft.**
 
 <!-- Snake animation (eats your contribution graph).
      Powered by the GitHub Action in .github/workflows/snake.yml.
-     This image 404s until that workflow has run once and created the "output" branch. -->
+     404s until that workflow has run once and created the "output" branch. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake.svg" alt="contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/Luqman-Ansari/Luqman-Ansari/output/snake-dark.svg" />
+  </picture>
 </p>
 
 ---
