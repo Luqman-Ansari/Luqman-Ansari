@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luqman-Ansari&show_icons=true&hide_border=true&bg_color=0A0E14&title_color=4DFF9E&icon_color=4DFF9E&text_color=8A99AD&ring_color=4DFF9E" alt="stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luqman-Ansari&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0A0E14&title_color=4DFF9E&icon_color=4DFF9E&text_color=8A99AD&ring_color=4DFF9E" alt="stats" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luqman-Ansari&layout=compact&hide_border=true&bg_color=0A0E14&title_color=4DFF9E&text_color=8A99AD&langs_count=8" alt="top languages" />
 </p>
 
